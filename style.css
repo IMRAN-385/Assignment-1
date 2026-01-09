@@ -227,7 +227,7 @@ border-radius: 70px;
 .abc{
   display: flex;
  align-items:center;
- gap: 0px;
+ gap: 10px;
  margin-bottom: 8px;
 }
 .abc .nam img{
